@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CshardTypesAndMembers
 {
-    public class ClassExample
+    public class Class
     {
         public void ShowClassExample()
         {

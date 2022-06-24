@@ -1,6 +1,6 @@
 ﻿using CshardTypesAndMembers;
 
-StructExample structExample = new StructExample();
-ClassExample classExample = new ClassExample();
+Struct structExample = new Struct();
+Class classExample = new Class();
 classExample.ShowClassExample();
 structExample.ShowStrutExample();

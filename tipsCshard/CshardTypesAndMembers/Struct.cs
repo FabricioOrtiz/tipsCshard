@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CshardTypesAndMembers
 {
-    public class StructExample
+    public class Struct
     {
         public void ShowStrutExample()
         {
