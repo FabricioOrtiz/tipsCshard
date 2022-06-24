@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.csproj.AssemblyReference.cache
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\bin\Debug\net6.0\CshardTypesAndMembers.exe
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\bin\Debug\net6.0\CshardTypesAndMembers.deps.json
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\bin\Debug\net6.0\CshardTypesAndMembers.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\bin\Debug\net6.0\CshardTypesAndMembers.dll
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\bin\Debug\net6.0\CshardTypesAndMembers.pdb
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.dll
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\refint\CshardTypesAndMembers.dll
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.pdb
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\CshardTypesAndMembers.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\tipsCshard\tipsCshard\CshardTypesAndMembers\obj\Debug\net6.0\ref\CshardTypesAndMembers.dll
