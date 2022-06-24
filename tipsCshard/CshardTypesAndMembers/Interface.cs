@@ -16,6 +16,9 @@ An interface defines a contract that can be implemented by classes and structs. 
     the members it defines—it merely specifies the members that must be supplied by classes or structs that implement the interface.
 Interfaces may employ multiple inheritance. In the following example, the interface IComboBox inherits from both ITextBox and IListBox.C#
      */
+
+
+    /*example: Interfaces may employ multiple inheritance*/
     interface IControl
     {
         void Paint();
